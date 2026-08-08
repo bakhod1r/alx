@@ -1,0 +1,21 @@
+title: ALX - Accept-Language Parser
+description: A highly performant, zero-allocation-ready, RFC 9110 / RFC 4647 compliant Accept-Language HTTP header parser and language resolver for Go.
+theme: jekyll-theme-primer
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/bakhod1r/alx
+
+# Navigation configuration
+header_pages:
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - SECURITY.md
+  - CODE_OF_CONDUCT.md
+
+exclude:
+  - "*.go"
+  - go.mod
+  - Makefile
+  - docs/
