@@ -1,0 +1,13 @@
+# Test / coverage artifacts
+coverage.out
+coverage.html
+*.test
+*.prof
+
+# Go workspace (local dev only — not published)
+go.work.sum
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
